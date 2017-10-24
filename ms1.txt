@@ -1,0 +1,7 @@
+git hub
+clone
+add
+commit
+push
+pull request
+merge request
